@@ -1,5 +1,5 @@
 # Summary
 
 * [SailingCloud简介](README.md)
-* [First Chapter](chapter1.md)
+* [初识SailingCloud](chapter1.md)
 

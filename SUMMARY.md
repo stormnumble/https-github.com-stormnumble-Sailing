@@ -9,6 +9,6 @@
    * [故障处理](content/安装部署手册/gu_zhang_chu_li.md)
 * [SailingCloud入门教程](content/sailingcloudru_men_jiao_cheng.md)
    * [注册帐号](content/SailingCloud入门教程/zhu_ce_zhang_hao.md)
-   * 平台安装
+   * [平台安装](content/SailingCloud入门教程/ping_tai_an_zhuang.md)
    * [创建第一个应用](content/SailingCloud入门教程/chuang_jian_di_yi_ge_ying_yong.md)
 

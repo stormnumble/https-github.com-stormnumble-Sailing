@@ -20,4 +20,5 @@
    * [云主机管理](content/产品功能/yun_zhu_ji_guan_li.md)
    * [镜像服务](content/产品功能/jing_xiang_fu_wu.md)
    * [应用管理](content/产品功能/ying_yong_guan_li.md)
+   * 域名管理
 

@@ -10,4 +10,5 @@
 * [SailingCloud入门教程](content/sailingcloudru_men_jiao_cheng.md)
    * [注册帐号](content/SailingCloud入门教程/zhu_ce_zhang_hao.md)
    * [创建第一个应用](content/SailingCloud入门教程/chuang_jian_di_yi_ge_ying_yong.md)
+   * 平台安装
 

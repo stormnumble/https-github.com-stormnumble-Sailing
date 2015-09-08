@@ -12,6 +12,5 @@
    * [平台安装](content/SailingCloud入门教程/ping_tai_an_zhuang.md)
    * [创建第一个应用](content/SailingCloud入门教程/chuang_jian_di_yi_ge_ying_yong.md)
    * [灰度升级和一键部署](content/SailingCloud入门教程/hui_du_sheng_ji_he_yi_jian_bu_shu.md)
-   * 应用性能管理
-   * 我的云
+   * [应用性能管理](content/SailingCloud入门教程/ying_yong_xing_neng_guan_li.md)
 

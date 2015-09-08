@@ -8,4 +8,5 @@
    * [minion节点部署](content/安装部署手册/minionjie_dian_bu_shu.md)
    * [故障处理](content/安装部署手册/gu_zhang_chu_li.md)
 * [SailingCloud入门教程](content/sailingcloudru_men_jiao_cheng.md)
+   * 注册帐号
 
